@@ -1,0 +1,9 @@
+{2017-12-19 19:47:11} [Game] Listening on port 8080
+{2017-12-19 19:47:11} [Game] Current game mode is Free For All
+{2017-12-19 19:47:11} [Game] Loaded stats server on port 1501
+{2017-12-19 19:48:56} > gamemode 1
+{2017-12-19 19:48:56} [Game] Changed game mode to Teams
+{2017-12-19 19:49:36} > addbot 10
+{2017-12-19 19:49:36} [Console] Added 10 player bots
+{2017-12-19 19:49:52} > addbot 40
+{2017-12-19 19:49:52} [Console] Added 40 player bots
