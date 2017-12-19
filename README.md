@@ -1,2 +1,2 @@
-# diep.io
-It is a cool game
+# Ogar52
+works better than Ogar
